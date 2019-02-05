@@ -1,0 +1,89 @@
+{
+	"name": [
+		"Bethany",
+		"Amanda",
+		"Sarah",
+		"Rachel",
+		"Jimmy",
+		"Jonathan",
+		"James",
+		"Chad",
+		"Gregory",
+		"Barack",
+		"Donald",
+		"Hillary",
+		"Abagail"
+	],
+	"occupation": [
+		"baker",
+		"architect",
+		"chef",
+		"lawyer",
+		"doctor",
+		"engineer",
+		"author",
+		"electrician",
+		"plumber",
+		"dentist",
+		"waiter",
+		"translator",
+		"pharmacist",
+		"artist"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this...#this#. Click here to #discover# more, plus hear about #more# #animal#."
+	],
+	"always": [
+		"often",
+		"never",
+		"always",
+		"quite a bit",
+		"frequently",
+		"rarely",
+		"typically"
+	],
+	"expecting": [
+		"imagining",
+		"anticipating",
+		"listening",
+		"entertaining",
+		"preparing"
+	],
+	"this": [
+		"a pencil",
+		"freedom from jail",
+		"a life with their kid",
+    "swimming under water",
+		"an unexpected ",
+		"winning the lottery"
+	],
+	"discover": [
+		"read",
+		"discover",
+		"unveil",
+		"show",
+		"observe"
+	],
+	"more": [
+		"the flying",
+		"the pooping",
+		"the eating",
+		"the sleeping",
+		"the crying",
+		"the smelly",
+		"the farting",
+		"the amazing",
+		"the spectacular"
+	],
+	"animal": [
+		"giraffe",
+		"lion",
+		"alligator",
+		"human",
+		"vulture",
+		"rhino",
+		"monkey",
+		"zebra",
+		"alien"
+	]
+}
